@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bottomSheet</string>
+    <string name="apps_name">Navigation Drawer</string>
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
